@@ -1,0 +1,17 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "outDir": "dist",
+    "pretty": true,
+    "sourceMap": true,
+    "lib": ["es2015"]
+  },
+  "filesGlob": [
+    "**/*.ts",
+    "**/*.tsx",
+    "!node_modules/**",
+    "node_modules/@types/**"
+  ]
+}
