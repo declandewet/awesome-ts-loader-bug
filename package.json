@@ -11,7 +11,7 @@
     "@types/node": "^0.0.2",
     "awesome-typescript-loader": "^3.0.0-beta.10",
     "json-loader": "^0.5.4",
-    "rimraf": "^2.5.4",
+    "rimraf": "^2.6.1",
     "typescript": "^2.1.4",
     "webpack": "^2.1.0-beta.27"
   }
