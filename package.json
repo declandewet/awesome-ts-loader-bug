@@ -12,7 +12,7 @@
     "awesome-typescript-loader": "^3.0.0-beta.10",
     "json-loader": "^0.5.4",
     "rimraf": "^2.5.4",
-    "typescript": "^2.1.4",
+    "typescript": "^2.3.1",
     "webpack": "^2.1.0-beta.27"
   }
 }
