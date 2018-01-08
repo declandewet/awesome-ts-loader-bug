@@ -8,7 +8,7 @@
     "dev": "webpack --watch --progress"
   },
   "devDependencies": {
-    "@types/node": "^0.0.2",
+    "@types/node": "^8.5.8",
     "awesome-typescript-loader": "^3.0.0-beta.10",
     "json-loader": "^0.5.4",
     "rimraf": "^2.5.4",
